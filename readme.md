@@ -6,7 +6,7 @@
 
 **now It's updating and didn't finish,only finish os info module and process-enum module**.
 
-![image-20230513114718862](assets\image-20230513114718862.png)
+![image-20230513114718862](./assets/image-20230513114718862.png)
 
 - [x] **列出机器OS版本信息(List the OS version information of the machine.)**
 
