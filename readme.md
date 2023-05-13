@@ -21,19 +21,19 @@
 
   - [x] 枚举进程的所有线程(Enumerate all threads of processes.)
 
-  ![image-20230513114748528](\assets\image-20230513114748528.png)
+  ![image-20230513114748528](assets/image-20230513114748528.png)
 
   - [x] 枚举进程句柄表(Enumerate process handles)
 
-  ![image-20230513114832118](\assets\image-20230513114832118.png)
+  ![image-20230513114832118](assets/image-20230513114832118.png)
 
   - [x] 枚举进程的窗口(Enumerate process windows)
 
-    ![image-20230513114814003](E:\code\my\krl\oxygen_ark\assets\image-20230513114814003.png)
+    ![image-20230513114814003](assets/image-20230513114814003.png)
 
   - [x] 枚举进程定时器(Enumerate process timer)
 
-    ![image-20230513114801391](E:\code\my\krl\oxygen_ark\assets\image-20230513114801391.png)
+    ![image-20230513114801391](assets/image-20230513114801391.png)
 
   - [x] 隐藏进程(Hide Process)
 
