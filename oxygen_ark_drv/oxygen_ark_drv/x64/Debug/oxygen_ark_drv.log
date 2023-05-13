@@ -1,0 +1,8 @@
+﻿  Building 'oxygen_ark_drv' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  _utils.cpp
+  oxygen_ark_drv.vcxproj -> E:\code\my\krl\oxygen_ark\oxygen_ark_drv\x64\Debug\oxygen_ark_drv.sys
+  Done Adding Additional Store
+  Successfully signed: E:\code\my\krl\oxygen_ark\oxygen_ark_drv\x64\Debug\oxygen_ark_drv.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

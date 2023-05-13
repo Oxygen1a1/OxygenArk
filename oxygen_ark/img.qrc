@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>terminate.ico</file>
+    </qresource>
+</RCC>

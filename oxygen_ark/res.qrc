@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bug1.ico</file>
+        <file>terminate.ico</file>
+        <file>handles.ico</file>
+        <file>inject.ico</file>
+        <file>modules.ico</file>
+        <file>rw.ico</file>
+        <file>threads.ico</file>
+        <file>timer.ico</file>
+        <file>windows.ico</file>
+        <file>computer.ico</file>
+        <file>wx.png</file>
+        <file>zfb.png</file>
+    </qresource>
+</RCC>
