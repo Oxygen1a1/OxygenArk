@@ -6,26 +6,26 @@
 
 **now It's updating and didn't finish,only finish os info module and process-enum module**.
 
-![image-20230513114718862](E:\code\my\krl\oxygen_ark\assets\image-20230513114718862.png)
+![image-20230513114718862](\assets\image-20230513114718862.png)
 
 - [x] **列出机器OS版本信息(List the OS version information of the machine.)**
 
-![image-20230513114850577](E:\code\my\krl\oxygen_ark\assets\image-20230513114850577.png)
+![image-20230513114850577](\assets\image-20230513114850577.png)
 
 - [x] **枚举进程(Enumerate processes.)**
 
   - [x] 枚举进程各种信息(Enumerate various information of processes.)
   - [x] 枚举进程的模块(Enumerate the modules of processes.)
 
-  ![image-20230513114736009](E:\code\my\krl\oxygen_ark\assets\image-20230513114736009.png)
+  ![image-20230513114736009](\assets\image-20230513114736009.png)
 
   - [x] 枚举进程的所有线程(Enumerate all threads of processes.)
 
-  ![image-20230513114748528](E:\code\my\krl\oxygen_ark\assets\image-20230513114748528.png)
+  ![image-20230513114748528](\assets\image-20230513114748528.png)
 
   - [x] 枚举进程句柄表(Enumerate process handles)
 
-  ![image-20230513114832118](E:\code\my\krl\oxygen_ark\assets\image-20230513114832118.png)
+  ![image-20230513114832118](\assets\image-20230513114832118.png)
 
   - [x] 枚举进程的窗口(Enumerate process windows)
 
